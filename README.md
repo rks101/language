@@ -21,3 +21,8 @@ e.g.
 [List of Unicode symbols](https://symbl.cc/en/unicode-table/)      
 [Devanagari Unicode symbols (code points)](https://symbl.cc/en/unicode-table/#devanagari)     
 [Dogra Unicode Sumbols](https://symbl.cc/en/unicode-table/#dogra)    
+
+
+
+[Glyph](https://en.wikipedia.org/wiki/Glyph).  
+[Grapheme](https://en.wikipedia.org/wiki/Grapheme).   
