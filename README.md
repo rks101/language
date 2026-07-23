@@ -26,3 +26,4 @@ e.g.
 
 [Glyph](https://en.wikipedia.org/wiki/Glyph).  
 [Grapheme](https://en.wikipedia.org/wiki/Grapheme).   
+[Hunterian Transliteration System](https://en.wikipedia.org/wiki/Hunterian_transliteration).     
