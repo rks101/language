@@ -14,9 +14,10 @@ How do we [look at a poem](https://www.merriam-webster.com/words-at-play/thirtee
 [Natural Languages](https://en.wikipedia.org/wiki/Language) are represented using a [Writing System](https://en.wikipedia.org/wiki/Writing_system). This [chart on language identification](https://en.wikipedia.org/wiki/Wikipedia:Language_recognition_chart) based on script (a collection of letters and other written symbols) may be helpful.     
 
 [Unicode standard](https://www.unicode.org/versions/Unicode17.0.0/UnicodeStandard-17.0.pdf) for a script is a universal mechanism to write on digital devices.      
+Here is [a simple unicode explorer including symbols and emojis](https://unicode-explorer.com/)     
 
 e.g.     
-[Dogri unicode]() and [help on Dogri unicode](https://grokipedia.com/page/dogra_unicode_block)
+[Dogri unicode](https://symbl.cc/en/unicode/blocks/dogra/) and [help on Dogri unicode](https://grokipedia.com/page/dogra_unicode_block)
 
 [List of Unicode symbols](https://symbl.cc/en/unicode-table/)      
 [Devanagari Unicode symbols (code points)](https://symbl.cc/en/unicode-table/#devanagari)     
